@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class HashFunction_02 {
+public class P02_HashFunction {
     static int size = 10;
     static int[] table = new int[size];
 
