@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Merge_Sort_01 {
+public class P01_Merge_Sort {
 
     public static int[] mergeSort(int[] arr) {
         if (arr.length <= 1) {
